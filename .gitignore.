@@ -1,0 +1,39 @@
+# Node.js (since React Native uses Node.js)
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Metro bundler
+.expo/
+.expo-shared/
+
+# Android files
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+android/local.properties
+android/app/src/main/assets/index.android.bundle
+
+# iOS files
+ios/Pods/
+ios/.DS_Store
+ios/build/
+ios/.idea/
+ios/*.xcworkspace/
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/xcshareddata/
+ios/*.xcodeproj/xcuserdata/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+*.swp
